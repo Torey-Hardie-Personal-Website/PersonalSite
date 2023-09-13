@@ -1,3 +1,1 @@
-myFunction(){
-    alert("Welcome to My Page!")
-}
+alert("Welcome to My Page!")
