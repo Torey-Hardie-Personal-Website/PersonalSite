@@ -131,6 +131,14 @@ div.scroll-container img {
   padding: 8px;
 }   
 
-.scrollable-element {
-  scrollbar-color: black purple;
+.grid-container {
+display: grid;
+text-align: center;
+    font-size: 25px;
+    color: white;
+    row-gap: 20px;
 }
+
+input{
+  text-align: center;
+  color: purple !important; 
